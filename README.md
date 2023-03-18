@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/610270971.svg)](https://zenodo.org/badge/latestdoi/610270971)
 # Speaker Diarization for Linguistics
 
 A tutorial for speaker diarization for linguists, published at the [Linguistics Methods Hub](https://lingmethodshub.github.io/).
